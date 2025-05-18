@@ -13,6 +13,5 @@
 
 Дашборд досупен
 
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/67d4ac9e-965c-4d77-86f8-62aa72118815)
 
