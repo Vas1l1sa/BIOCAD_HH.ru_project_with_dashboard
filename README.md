@@ -3,7 +3,7 @@
 Датасет вакансий с hh.ru с платформы Kaggle.com: https://www.kaggle.com/datasets/pavfedotov/heaadhunter-vacancies?resource=download&select=df2021-08-03.csv
 
 
-Задания и решения надодятся [в файле](01_Сборка_датасетов_Bioinformatics_+_ML_petproject_.ipynb)
+Задания и решения надодятся [в файле](Анализ датафрейма на Python.ipynb)
 
 
  # 2. Разработка дашборда в Power BI на основе этого датасета с вакансиями
